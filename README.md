@@ -31,8 +31,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/113831614/222160846-81d0b76c-7f9e-4651-9c25-877b45301aea.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/113831614/222157727-ba40ec6d-b4c5-4eea-84e3-f578dd2977af.svg" title="Jekyll" alt="Jekyll" width="40" height="40"/>&nbsp;
 </div>
-
 
 
 
